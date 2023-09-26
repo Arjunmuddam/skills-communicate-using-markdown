@@ -4,3 +4,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Done with Shopping
+- [x] Done with Date
+- [ ] This item is not complete
